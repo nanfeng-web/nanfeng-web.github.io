@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://nanfengzjy.github.io</id>
+    <id>https://nanfeng-web.github.io</id>
     <title>楠枫的小窝</title>
-    <updated>2021-10-02T13:42:55.098Z</updated>
+    <updated>2021-10-02T22:09:37.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://nanfengzjy.github.io"/>
-    <link rel="self" href="https://nanfengzjy.github.io/atom.xml"/>
+    <link rel="alternate" href="https://nanfeng-web.github.io"/>
+    <link rel="self" href="https://nanfeng-web.github.io/atom.xml"/>
     <subtitle>君指先跃动の光は、私の一生不変わるの信仰に、唯私の超電磁砲永世生き！</subtitle>
-    <logo>https://nanfengzjy.github.io/images/avatar.png</logo>
-    <icon>https://nanfengzjy.github.io/favicon.ico</icon>
+    <logo>https://nanfeng-web.github.io/images/avatar.png</logo>
+    <icon>https://nanfeng-web.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 楠枫的小窝</rights>
     <entry>
         <title type="html"><![CDATA[tets]]></title>
-        <id>https://nanfengzjy.github.io/post/test/</id>
-        <link href="https://nanfengzjy.github.io/post/test/">
+        <id>https://nanfeng-web.github.io/post/test/</id>
+        <link href="https://nanfeng-web.github.io/post/test/">
         </link>
         <updated>2021-10-02T09:52:23.000Z</updated>
         <content type="html"><![CDATA[<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>j</mi><mi>u</mi><mi>s</mi><mi>t</mi><mi>f</mi><mi>o</mi><mi>r</mi><mi>α</mi><mi>t</mi><mi>s</mi><mi>t</mi></mrow><annotation encoding="application/x-tex">just for \alpha tst</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.05724em;">j</span><span class="mord mathdefault">u</span><span class="mord mathdefault">s</span><span class="mord mathdefault">t</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span><span class="mord mathdefault">o</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mord mathdefault" style="margin-right:0.0037em;">α</span><span class="mord mathdefault">t</span><span class="mord mathdefault">s</span><span class="mord mathdefault">t</span></span></span></span></p>
