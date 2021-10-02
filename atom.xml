@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nanfeng-web.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-10-02T11:35:50.273Z</updated>
+    <title>楠枫的小窝</title>
+    <updated>2021-10-02T11:46:02.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nanfeng-web.github.io"/>
     <link rel="self" href="https://nanfeng-web.github.io/atom.xml"/>
     <subtitle>君指先跃动の光は、私の一生不変わるの信仰に、唯私の超電磁砲永世生き！</subtitle>
     <logo>https://nanfeng-web.github.io/images/avatar.png</logo>
     <icon>https://nanfeng-web.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 楠枫的小窝</rights>
     <entry>
         <title type="html"><![CDATA[tets]]></title>
         <id>https://nanfeng-web.github.io/post/tets/</id>
